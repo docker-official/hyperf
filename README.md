@@ -4,7 +4,7 @@
 
 - [`7.4-alpine-v3.11-swoole`](https://github.com/docker-official/hyperf/blob/main/7.4/Dockerfile)
 
-## Architecture:
+## Architecture
 
 - amd64
 - arm64
