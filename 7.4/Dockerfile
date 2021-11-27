@@ -1,4 +1,4 @@
-# hyperf/hyperf:7.3
+# hyperf/hyperf:7.4
 
 ARG ALPINE_VERSION=3.11
 
